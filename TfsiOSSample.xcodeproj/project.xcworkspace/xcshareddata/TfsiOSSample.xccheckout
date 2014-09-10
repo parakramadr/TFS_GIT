@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A20790BF-EAC0-4150-9DAB-1AD655317A30</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TfsiOSSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6638F801-79EA-46AE-84E2-1F1D47CE9383</key>
+		<string>https://parakrama.visualstudio.com/DefaultCollection/_git/TFS_GIT</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TfsiOSSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6638F801-79EA-46AE-84E2-1F1D47CE9383</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://parakrama.visualstudio.com/DefaultCollection/_git/TFS_GIT</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6638F801-79EA-46AE-84E2-1F1D47CE9383</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6638F801-79EA-46AE-84E2-1F1D47CE9383</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TFS_GIT</string>
+		</dict>
+	</array>
+</dict>
+</plist>
